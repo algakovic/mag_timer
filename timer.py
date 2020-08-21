@@ -2,7 +2,7 @@
 # Simple timer program for feeding mags
 
 import time
-sec = 5
+sec = 195
 while sec > 0:
     print(sec)
     time.sleep(1) # every seconds
