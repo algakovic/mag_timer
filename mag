@@ -7,7 +7,6 @@ from subprocess import call
 
 sec = 193
 while sec > 0:
-    print(sec)
     
     if sec == 193:
         playsound('C:/Users/kamik/code/projects/mag_timer/sounds/AlpineCheckPoint.wav') # Sound file plays for 2 seconds
@@ -16,7 +15,7 @@ while sec > 0:
     if sec == 1:
         playsound('C:/Users/kamik/code/projects/mag_timer/sounds/rose_confession.mp3') # sound file plays for 25 seconds
         call('clear')
-        sec = 193 # Reset timer to 3 minutes and 16 seconds
+        sec = 194 # Reset timer to 3 minutes and 14 seconds
 
     time.sleep(1) # every second
     sec -= 1 # take one second away
