@@ -8,6 +8,22 @@ The timer is personalised to run for 3 minutes and 15 seconds.
 - Resets automatically
 
 ## Usage:
+Feel free to clone the program and use / modify it.
+
+To use the program on Mac / Linux Operating systems, users have to:
+
+1.
+- pip install pyobjc
+- pip install playsound
+
+2. 
+Modify the sound files paths to:
+- './sounds/AlpineCheckPoint.wav'
+- './sounds/rose_confession.mp3'
+
+3. 
+Run the program with ./mag from the directory it is installed.
+
 
 ## Key Files:
 sounds: directory storing all sound files for alarms and jingles used in the timer program
@@ -35,7 +51,7 @@ Python playsound() event blocks successive events until the playsound event is f
 Absolute paths to sounds will not be transferrable.
 
 ## Conclusion
-Relying on the playsound) event to naturally create a buffer period for feeding time was a happy accident.
+Relying on the playsound() event to naturally create a buffer period for feeding time was a happy accident.
 
 ## Recommendations
 Refactor code into function 
