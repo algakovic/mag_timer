@@ -17,7 +17,7 @@ To use the program on Mac / Linux Operating systems, users have to:
 - pip install playsound
 
 2. 
-Modify the sound files paths to:
+Within the mag program, modify the sound files paths to:
 - './sounds/AlpineCheckPoint.wav'
 - './sounds/rose_confession.mp3'
 
