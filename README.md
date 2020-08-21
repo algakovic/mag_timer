@@ -21,7 +21,7 @@ Within the mag program, modify the sound files paths to:
 - './sounds/rose_confession.mp3'
 
 
-*Run the program* with ./mag from the directory it is installed.
+**Run the program** with ./mag from the directory it is installed.
 
 
 ## Key Files:
