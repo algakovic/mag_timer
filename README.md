@@ -12,17 +12,16 @@ Feel free to clone the program and use / modify it.
 
 To use the program on Mac / Linux Operating systems, users have to:
 
-1.
 - pip install pyobjc
 - pip install playsound
 
-2. 
+
 Within the mag program, modify the sound files paths to:
 - './sounds/AlpineCheckPoint.wav'
 - './sounds/rose_confession.mp3'
 
-3. 
-Run the program with ./mag from the directory it is installed.
+
+*Run the program* with ./mag from the directory it is installed.
 
 
 ## Key Files:
